@@ -167,7 +167,7 @@
       .col-lg-5
         img(src='@/assets/curso/Tema3/img07.png', alt='Texto que describa la imagen')
 
-
+   
 
 
 
