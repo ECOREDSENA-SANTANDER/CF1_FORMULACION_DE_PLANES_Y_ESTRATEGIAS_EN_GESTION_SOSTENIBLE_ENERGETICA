@@ -21,7 +21,7 @@
     p El ciclo de vida de un proceso energético se puede dividir en las siguientes etapas clave:
     
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-12
+      .col-sm-12.col-lg-12.col-12
         .d-flex.align-items-center
           img.w-card-icon(src="@/assets/curso/Tema3/bombillo.svg")
           h3.bg3.py-2.w-card-text.text-white Etapas del ciclo de vida
@@ -32,7 +32,7 @@
           h5 Tabla 4. 
           span #[em Extracción de materia prima]
 
-      .tabla-a.color-acento-contenido(alt="Describe la etapa inicial del ciclo de vida, donde se extraen recursos naturales y se generan impactos como deforestación, erosión, contaminación por petróleo y minería. Incluye efectos en renovables y prácticas de extracción sostenible.")
+      .tabla-a.color-acento-contenido(alt="Describe la etapa inicial del ciclo de vida, donde se extraen recursos naturales y se generan impactos como deforestación, erosión, contaminación por petróleo y minería. Incluye efectos en renovables y prácticas de extracción sostenible.")(data-aos='fade-right')
         table
           thead
             tr
@@ -67,7 +67,7 @@
           h5 Tabla 5. 
           span #[em Procesamiento / transformación]
 
-      .tabla-a.color-acento-contenido(alt="Presenta cómo los recursos se refinan o transforman, generando consumo energético y emisiones. Señala impactos en combustibles fósiles y renovables, y destaca la importancia de la eficiencia y el manejo seguro de materiales.")
+      .tabla-a.color-acento-contenido(alt="Presenta cómo los recursos se refinan o transforman, generando consumo energético y emisiones. Señala impactos en combustibles fósiles y renovables, y destaca la importancia de la eficiencia y el manejo seguro de materiales.")(data-aos='fade-right')
         table
           thead
             tr
@@ -98,13 +98,13 @@
               td.text-left
                 | Eficiencia energética, control de emisiones, gestión segura de químicos, desarrollo de materiales reciclables.
 
-    .row.justify-content-center.align-items-center.mb-0.fondo5.p-4
+    .row.justify-content-center.align-items-center.mb-4.fondo5.p-4
       .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 6. 
           span #[em Transporte]
 
-      .tabla-a.color-acento-contenido(alt="Presenta la movilización de recursos o equipos, sus emisiones y riesgos como derrames y contaminación. Incluye impactos en fósiles y renovables, y propone medidas como rutas optimizadas y transporte eficiente.")
+      .tabla-a.color-acento-contenido(alt="Presenta la movilización de recursos o equipos, sus emisiones y riesgos como derrames y contaminación. Incluye impactos en fósiles y renovables, y propone medidas como rutas optimizadas y transporte eficiente.")(data-aos='fade-right')
         table
           thead
             tr
@@ -134,12 +134,97 @@
               td.text-left
                 | Optimización de rutas, uso de transporte eficiente, reducción de pérdidas y fugas, preferencia por insumos de producción local.
 
+    .row.justify-content-center.align-items-center.mb-4.fondo6.p-4
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Tabla 7.
+          span #[em Generación / combustión]
+
+        .tabla-a.color-acento-contenido(alt="Explica la conversión del recurso en energía, con altas emisiones en combustibles fósiles y mínimos impactos en solar y eólica. Destaca medidas como eficiencia, reducción de contaminantes y uso de tecnologías limpias.")(data-aos='fade-right')
+          table
+            thead
+              tr
+                th.w-25 Aspecto
+                th Descripción
+            tbody
+              tr.bg9
+                td.color-acento-contenido #[b Definición]
+                td.text-left
+                  | Etapa donde el recurso se convierte en energía útil (electricidad, calor, movimiento).
+
+              tr.bg10
+                td #[b Importancia]
+                td.text-left
+                  | Suele ser la fase con mayor impacto atmosférico y es la más visible del ciclo de vida.
+
+              tr.bg9
+                td #[b Impactos en combustibles fósiles]
+                td.text-left
+                  p • Altas emisiones de CO₂, metano y contaminantes (SOx, NOx, partículas, mercurio).
+                  p • Uso intensivo de agua para enfriamiento.
+
+              tr.bg10
+                td #[b Impactos en energías renovables]
+                td.text-left
+                  p • #[b Solar y eólica:] sin emisiones durante operación; impactos visuales y sonoros mínimos.
+                  p • #[b Hidroeléctrica:] alteración de ecosistemas y posible emisión de metano por biomasa en embalses.
+
+              tr.bg9
+                td #[b Consideraciones de sostenibilidad]
+                td.text-left
+                  | Reducción de emisiones, eficiencia energética, monitoreo de contaminantes, integración de tecnologías limpias.
+
+    .row.justify-content-center.align-items-center.mb-4.fondo7.p-4
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Tabla 8.
+          span #[em Disposición final residuos]
+
+        .tabla-a.color-acento-contenido(alt="Describe la gestión de residuos energéticos, incluyendo cenizas, desechos tóxicos, residuos nucleares y materiales de renovables como paneles y baterías. Señala la importancia del reciclaje y la economía circular.")(data-aos='fade-right')
+          table
+            thead
+              tr
+                th.w-25 Aspecto
+                th Descripción
+            tbody
+              tr.bg9
+                td.color-acento-contenido #[b Definición]
+                td.text-left
+                  | Gestión de los desechos generados al final de la vida útil del recurso o de la infraestructura energética.
+
+              tr.bg10
+                td #[b Importancia]
+                td.text-left
+                  | Determina el impacto ambiental a largo plazo y la posibilidad de reincorporación a ciclos productivos.
+
+              tr.bg9
+                td #[b Residuos de combustibles fósiles]
+                td.text-left
+                  p • Cenizas con metales pesados; riesgo de filtración.
+
+              tr.bg10
+                td #[b Residuos de energía nuclear]
+                td.text-left
+                  p • Altamente radiactivos; requieren almacenamiento seguro durante miles de años.
+
+              tr.bg9
+                td #[b Residuos en energías renovables]
+                td.text-left
+                  p • #[b Solar:] paneles con silicatos y metales; reciclaje en desarrollo.
+                  p • #[b Eólica:] aspas difíciles de reciclar; torres y metales sí reciclables.
+                  p • #[b Baterías:] riesgos por litio, cobalto y metales pesados.
+
+              tr.bg10
+                td #[b Consideraciones de sostenibilidad]
+                td.text-left
+                  | Reciclaje, economía circular, responsabilidad extendida del productor, tecnologías para valorización de residuos.
 
 
-
-
-
-
+    .row.justify-content-center.align-items-center.mb-4.bg1.p-4(data-aos="zoom-in-left")
+      .col-lg-1.col-4.col-md-3
+        img(src='@/assets/curso/Tema3/img01.svg', alt='')
+      .col-lg-11
+        p La disposición final de los residuos es un aspecto clave en el análisis del ciclo de vida, pues incluso un proyecto que parece limpio durante su operación puede generar impactos ambientales significativos en esta etapa si no cuenta con un plan adecuado y sostenible de gestión de desechos.
 
 
 

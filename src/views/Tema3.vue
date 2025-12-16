@@ -20,7 +20,7 @@
           h3.bg3.py-2.w-card-text.text-white Deforestación y alteración del paisaje
     p La deforestación y la modificación del paisaje son impactos visibles y ecológicamente significativos, comúnmente asociados a la extracción de materia prima y al transporte.
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos='fade-right')
       .col-lg-12
         .tarjeta--container.row.mb-5
           .col-md.tarjeta.color-primario.p-5
@@ -55,10 +55,10 @@
         .d-flex.align-items-center
           h3.bg5.py-2.w-card-text1 Contaminación del agua y del suelo
 
-    .row.justify-content-center.align-items-center.mb-3.fondo1
-      .col-lg-3
+    .row.justify-content-center.align-items-center.mb-3.fondo1(data-aos='fade-right')
+      .col-lg-3.col-8.mb-3.col-md-6
         img(src="@/assets/curso/Tema3/img02.png")
-      .col-lg-7
+      .col-lg-7.col-md-9
         SlyderF.circl-arrow.mb-4(columnas="col-lg-7 col-xl-6")
           .tarjeta.bg2.p-4
             .row.justify-content-center.mb-3
@@ -88,21 +88,21 @@
           img.w-card-icon(src="@/assets/curso/Tema3/bombillo.svg")
           h3.bg3.py-2.w-card-text.text-white Contaminación del suelo
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-3(data-aos='fade-right')
       .col-lg-9
         .tarjeta--container.row
-          .col-md.tarjeta.bg7.p-3
+          .col-md.tarjeta.bg7.p-3.mb-4.d-none.d-lg-block
             .row.align-items-end
               .col-12.col-md-5.col-lg-12
                 figure
                   img(src='@/assets/curso/Tema3/img03.svg', alt='')          
-          .col-md.tarjeta.bg1.p-5
+          .col-md.tarjeta.bg1.p-5.mb-4
             .row.align-items-center
-              .col-12.col-md-5.col-lg-12
+              .col-12.col-md-12.col-lg-12
                 p #[b • Minería:] la extracción minera puede liberar metales pesados y sustancias ácidas que degradan el suelo, afectando su fertilidad y su funcionalidad ecológica.
                 p #[b • Procesamiento y disposición:] Si los residuos tóxicos generados por la refinación del petróleo o la fabricación de paneles solares no se gestionan de manera adecuada, pueden alterar la composición del suelo y generar daños prolongados.
       
-      .col-lg-3.mt-1
+      .col-lg-3.mt-1.col-9.col-md-6
         img(src='@/assets/curso/Tema3/flores.svg', alt='')      
     
     
@@ -115,8 +115,8 @@
     
     
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos='fade-right')
+      .col-lg-3.col-8.mb-3.col-md-6
         img(src="@/assets/curso/Tema3/img04.png")
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg2")
@@ -139,10 +139,10 @@
           h3.bg3.py-2.w-card-text.text-white Generación de Residuos
     p.mb-3 La generación de residuos está presente en todas las etapas del proceso energético y constituye uno de los desafíos más relevantes para avanzar hacia una economía circular.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos='fade-right')
       .col-lg-12
         TabsC.color-primario
-          .py-3.py-md-4(titulo="Extracción y procesamiento")
+          .py-3.py-md-4(titulo="Extracción y procesamiento").bg11
             .row.justify-content-center
               .col-md-5
                 figure
@@ -151,7 +151,7 @@
                 p Las actividades mineras producen grandes volúmenes de roca estéril y residuos derivados del procesamiento de minerales. Por su parte, las refinerías y plantas de producción energética generan subproductos y desechos tóxicos que requieren un manejo especializado para evitar impactos ambientales.
               
           
-          .py-3.py-md-4(titulo="Disposición final")
+          .py-3.py-md-4(titulo="Disposición final").bg11
             .row.justify-content-center
               .col-md-5
                 figure
@@ -160,11 +160,11 @@
                 p En esta fase se gestionan los residuos provenientes de la combustión (como las cenizas de carbón), los residuos peligrosos de origen nuclear y los materiales descartados al final de la vida útil de los equipos (turbinas, paneles solares, baterías, entre otros). Una gestión inadecuada de estos residuos puede ocasionar efectos adversos persistentes sobre los ecosistemas y la salud humana.
 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos='fade-right')
       .col-lg-7
         p La evaluación de los impactos ambientales no es un ejercicio superficial ni aislado; exige una visión integral que abarque todo el ciclo de vida de los procesos energéticos, desde su origen hasta su disposición final. Comprender y aplicar los principios de la sostenibilidad (equidad, visión a largo plazo y respeto por la capacidad de carga del planeta) es fundamental para la toma de decisiones informadas.
         p.bg8.p-4 Este conocimiento constituye el primer paso hacia la formulación de planes y estrategias que sean económicamente viables, socialmente equitativos y ambientalmente responsables. Desarrollar la capacidad de identificar, analizar y cuantificar estos impactos nos permite trascender lo teórico y avanzar hacia una gestión ambiental sólida, sentando así las bases para un futuro energético más sostenible y resiliente.
-      .col-lg-5
+      .col-lg-5.col-md-8
         img(src='@/assets/curso/Tema3/img07.png', alt='Texto que describa la imagen')
 
    
