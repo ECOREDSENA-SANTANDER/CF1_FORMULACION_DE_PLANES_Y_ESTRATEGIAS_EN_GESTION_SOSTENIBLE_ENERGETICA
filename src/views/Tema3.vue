@@ -8,7 +8,7 @@
       h1 Impactos ambientales en el proceso energético
 
     .row.justify-content-center.mb-4.bg1.p-4(data-aos="zoom-in-left")
-      .col-lg-1.col-4.mb-3.col-md-3
+      .col-lg-1.col-4.mb-3.col-md-2
         img(src='@/assets/curso/Tema3/img01.svg', alt='')
       .col-lg-11
         p Una vez analizadas las etapas del ciclo de vida energético, es esencial vincular cada fase con sus posibles impactos ambientales. Estos impactos constituyen las consecuencias directas o indirectas de las actividades humanas sobre el medio ambiente. Evaluarlos adecuadamente permite tomar decisiones informadas al formular planes y estrategias de sostenibilidad.
@@ -144,19 +144,19 @@
         TabsC.color-primario
           .py-3.py-md-4(titulo="Extracción y procesamiento").bg11
             .row.justify-content-center
-              .col-md-5
+              .col-md-5.col-10.mb-3
                 figure
                   img(src='@/assets/curso/Tema3/img05.svg', alt='Texto que describa la imagen')
-              .col-md-5.mb-4.mb-md-0
+              .col-md-5.mb-4.mb-md-0.col-10
                 p Las actividades mineras producen grandes volúmenes de roca estéril y residuos derivados del procesamiento de minerales. Por su parte, las refinerías y plantas de producción energética generan subproductos y desechos tóxicos que requieren un manejo especializado para evitar impactos ambientales.
               
           
           .py-3.py-md-4(titulo="Disposición final").bg11
             .row.justify-content-center
-              .col-md-5
+              .col-md-5.col-10.mb-3
                 figure
                   img(src='@/assets/curso/Tema3/img06.svg', alt='Texto que describa la imagen')
-              .col-md-5.mb-4.mb-md-0
+              .col-md-5.mb-4.mb-md-0.col-10
                 p En esta fase se gestionan los residuos provenientes de la combustión (como las cenizas de carbón), los residuos peligrosos de origen nuclear y los materiales descartados al final de la vida útil de los equipos (turbinas, paneles solares, baterías, entre otros). Una gestión inadecuada de estos residuos puede ocasionar efectos adversos persistentes sobre los ecosistemas y la salud humana.
 
 

@@ -15,7 +15,7 @@
           h5 Figura 7. 
           span #[em Análisis de ciclo de vida]
     .row.justify-content-center.align-items-center.mb-4.fondo2.p-4
-      .col-lg-6
+      .col-lg-6.col-md-8
         img(src='@/assets/curso/Tema2/img01.svg', alt='El Análisis del Ciclo de Vida (ACV) se muestra como un ciclo cerrado que incluye la obtención de materias primas, la producción, la distribución, el uso y el reciclaje. Cada etapa se conecta para reincorporar materiales al sistema y reducir la extracción de nuevos recursos, todo enmarcado dentro del concepto central del ACV.')
 
     p El ciclo de vida de un proceso energético se puede dividir en las siguientes etapas clave:
@@ -221,7 +221,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-4.bg1.p-4(data-aos="zoom-in-left")
-      .col-lg-1.col-4.col-md-3
+      .col-lg-1.col-4.col-md-2.mb-3
         img(src='@/assets/curso/Tema3/img01.svg', alt='')
       .col-lg-11
         p La disposición final de los residuos es un aspecto clave en el análisis del ciclo de vida, pues incluso un proyecto que parece limpio durante su operación puede generar impactos ambientales significativos en esta etapa si no cuenta con un plan adecuado y sostenible de gestión de desechos.
