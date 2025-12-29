@@ -27,8 +27,9 @@
       .col-lg-10
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/Xjkc9ChBmWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Fundamentos de la evaluación de impactos ambientales en procesos energéticos – Introducción
+
 
 
 
