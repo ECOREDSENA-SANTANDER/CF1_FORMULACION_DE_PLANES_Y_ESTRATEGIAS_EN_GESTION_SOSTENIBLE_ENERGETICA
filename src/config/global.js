@@ -47,7 +47,7 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: 'Desarrollo Sostenible',
+            titulo: 'Desarrollo sostenible',
             hash: 't_1_2',
           },
           {
@@ -122,7 +122,7 @@ export default {
       referencia:
         'Matis, P. (2015, 13 de mayo). Clase - Huella ecológica - Explicación.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=w-Mg6SCDDU0',
+      link: 'https://www.youtube.com/watch?v=w-Mg6SC0DU0',
     },
     {
       tema: 'El ciclo de vida del proceso energético',
@@ -220,14 +220,12 @@ export default {
     {
       referencia:
         'Comisión Mundial sobre Medio Ambiente y Desarrollo. (1987). Nuestro futuro común (Informe Brundtland).',
-      link:
-        'https://repositorio.cepal.org/entities/publication/47abc7c1-89b3-4e89-a386-a9ca0a9a31c0',
+      link: '',
     },
     {
       referencia:
         'Global Footprint Network. (2024). Huella Ecológica: Conceptos, medición y aplicaciones.',
-      link:
-        'https://www.footprintnetwork.org/content/uploads/2020/09/LPR2020-Summary-Spanish.pdf',
+      link: '',
     },
     {
       referencia:
@@ -249,14 +247,12 @@ export default {
     {
       referencia:
         'UNEP, GRID-Arendal. (2018). Energy and the Sustainable Development Goals: An Integrated Approach.',
-      link:
-        'https://sdgs.unep.org/measuring-progress/water-related-ecosystems-and-sdgs/sdgs/pdf/DEWA_Measuring_Progress_2023.pdf',
+      link: '',
     },
     {
       referencia:
-        'U.S. Department of Energy (DOE), Federal Energy Management Program (FEMP). (2022). Advanced Energy Performance Indicator (EnPI) Tool Training. DOE.',
-      link:
-        'https://www.energy.gov/eere/iedo/articles/energy-performance-indicator-tool',
+        'U.S. Department of Energy (DOE), Federal Energy Management Program (FEMP). (2022). Advanced Energy Performance Indicator (EnPI) Tool Training.',
+      link: '',
     },
   ],
   creditos: [
@@ -285,7 +281,7 @@ export default {
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora instruccional',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

@@ -39,7 +39,7 @@
                   img(src='@/assets/curso/Tema3/1.svg', alt='Texto que describa la imagen')          
               .col-9.col-lg-7
                 h2.bg4.p-1.text-center.text-black Alteración del paisaje     
-            La construcción de grandes infraestructuras energéticas (presas hidroeléctricas, líneas de transmisión, parques eólicos o minas a cielo abierto) transforma de manera permanente la topografía y el aspecto visual del territorio. Estos cambios pueden afectar el valor estético, cultural y recreativo de las áreas intervenidas.
+            p La construcción de grandes infraestructuras energéticas (presas hidroeléctricas, líneas de transmisión, parques eólicos o minas a cielo abierto) transforma de manera permanente la topografía y el aspecto visual del territorio. Estos cambios pueden afectar el valor estético, cultural y recreativo de las áreas intervenidas.
 
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -53,7 +53,8 @@
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
         .d-flex.align-items-center
-          h3.bg5.py-2.w-card-text1 Contaminación del agua y del suelo
+          img.w-card-icon(src="@/assets/curso/Tema3/bombillo.svg")
+          h3.bg3.py-2.w-card-text.text-white Contaminación del agua 
 
     .row.justify-content-center.align-items-center.mb-3.fondo1(data-aos='fade-right')
       .col-lg-3.col-8.mb-3.col-md-6
@@ -130,7 +131,7 @@
     
           .row.justify-content-center(titulo="Óxidos de nitrógeno (NOx)")
             .col-md-11.mb-4.mb-md-0
-              p Empleados durante la combustión a altas temperaturas, contribuyen al calentamiento global y son precursores de fenómenos como la lluvia ácida y el smog.
+              p Empleados durante la combustión a altas temperaturas, contribuyen al calentamiento global y son precursores de fenómenos como la lluvia ácida y el #[em smog].
     
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
@@ -143,7 +144,7 @@
       .col-lg-12
         TabsC.color-primario
           .py-3.py-md-4(titulo="Extracción y procesamiento").bg11
-            .row.justify-content-center
+            .row.justify-content-center.align-items-center
               .col-md-5.col-10.mb-3
                 figure
                   img(src='@/assets/curso/Tema3/img05.svg', alt='Texto que describa la imagen')
@@ -152,7 +153,7 @@
               
           
           .py-3.py-md-4(titulo="Disposición final").bg11
-            .row.justify-content-center
+            .row.justify-content-center.align-items-center
               .col-md-5.col-10.mb-3
                 figure
                   img(src='@/assets/curso/Tema3/img06.svg', alt='Texto que describa la imagen')

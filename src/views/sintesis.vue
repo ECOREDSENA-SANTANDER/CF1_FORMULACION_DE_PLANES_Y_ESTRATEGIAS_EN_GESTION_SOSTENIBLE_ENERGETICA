@@ -10,7 +10,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.svg", alt="La evaluación de impactos ambientales en los procesos energéticos se basa en la sostenibilidad y en el análisis del ciclo de vida, considerando cada etapa desde la extracción de recursos hasta su disposición final. Este enfoque permite identificar los efectos directos e indirectos que las actividades energéticas generan sobre el ambiente, promoviendo decisiones más responsables y sostenibles.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

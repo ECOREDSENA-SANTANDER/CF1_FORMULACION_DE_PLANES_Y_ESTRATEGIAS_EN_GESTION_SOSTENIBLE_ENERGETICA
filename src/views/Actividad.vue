@@ -257,7 +257,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        '¡Excelente trabajo! Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo del componente.¡Siga explorando este fascinante mundo de las energías renovables!',
+        '¡Excelente trabajo! Posee una buena comprensión sobre los conceptos fundamentales para el desarrollo del componente. ¡Siga explorando este fascinante mundo de las energías renovables!',
       mensaje_final_reprobado:
         'No ha superado la actividad. Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

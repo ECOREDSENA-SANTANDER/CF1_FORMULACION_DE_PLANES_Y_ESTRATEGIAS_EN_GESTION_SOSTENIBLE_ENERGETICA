@@ -86,7 +86,7 @@
                 tr.bg10
                   td #[b Objetivos principales]
                   td.text-left
-                    | Reducir la contaminación, mitigar el cambio climático, preservar la biodiversidad y garantizar la regeneración de los ecosistemas.
+                    | Reducir la contaminación, mitigar el cambio climático, preservar la biodiversidad y garantizar la regeneración de los recursos naturales.
                 tr.bg9
                   td #[b Aplicación en el sector energético]
                   td.text-left
@@ -172,7 +172,7 @@
                 tr.bg10
                   td #[b Objetivos principales]
                   td.text-left
-                    | Estabilidad económica, eficiencia energética, innovación tecnológica, rentabilidad a largo plazo y resiliencia del sistema energético.
+                    | Estabilidad económica, eficiencia energética, innovación tecnológica, rentabilidad a largo plazo y resiliencia del sistema productivo.
                 tr.bg9
                   td #[b Aplicación en el sector energético]
                   td.text-left
@@ -185,7 +185,7 @@
                   td.text-left
                     p • Inversión en paneles solares o aerogeneradores.
                     p • Auditorías energéticas para reducir consumo.
-                    p • Desarrollo de redes inteligentes (smart grids).
+                    p • Desarrollo de redes inteligentes (#[em smart grids]).
                 tr.bg9
                   td #[b Indicadores]
                   td.text-left
@@ -278,7 +278,7 @@
         )
         .bloque-texto-g__texto.p-4
           br
-          p.mb-0 La huella ecológica es un indicador que mide la demanda de recursos naturales por parte de la humanidad. Se expresa en hectáreas globales (gha), lo que permite comparar de forma estandarizada el impacto de diferentes países, ciudades o individuos.
+          p.mb-0 La #[b huella ecológica] es un indicador que mide la demanda de recursos naturales por parte de la humanidad. Se expresa en hectáreas globales (gha), lo que permite comparar de forma estandarizada el impacto de diferentes países, ciudades o individuos.
           br
           br
 
@@ -302,8 +302,8 @@
                 figure
                   img(src='@/assets/curso/Tema1/02.png', alt='Texto que describa la imagen')
               .col-md-6.mb-4.mb-md-0
-                h3.text-left Tierras de cultivo
-                p.text-left Necesarias para producir alimentos, fibras y aceites.
+                h3.text-left Tierras de pastoreo
+                p.text-left Destinadas a la cría de ganado y la producción de carne.
 
             .row.justify-content-center
               .col-md-6.mb-4.mb-md-0
@@ -485,7 +485,7 @@
         .col-lg-1.col-4.mb-3.col-md-3
           img(src='@/assets/curso/Tema1/img19.svg', alt='Texto que describa la imagen')
         .col-lg-11
-          h5.bg14.col-lg-1.text-center.text-white.p-1 Principios
+          h4.bg14.col-lg-1.text-center.text-white.p-1 Principios
           p Integración de la protección ambiental, el crecimiento económico y la equidad social.
 
 

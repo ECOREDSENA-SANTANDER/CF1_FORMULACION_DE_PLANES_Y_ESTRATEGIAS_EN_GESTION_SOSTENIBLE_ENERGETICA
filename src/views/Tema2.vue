@@ -50,7 +50,7 @@
               td.text-left 
                 p Combustibles fósiles:
                 p #[b • Carbón:] deforestación, erosión, drenaje ácido, contaminación del agua.
-                p #[b • Petróleo y gas:] derrames, contaminación del suelo y agua, riesgos del fracking (químicos y sísmicos).
+                p #[b • Petróleo y gas:] derrames, contaminación del suelo y agua, riesgos del #[em fracking] (químicos y sísmicos).
             tr.bg10
               td #[b Impactos en energías renovables]
               td.text-left
@@ -168,7 +168,7 @@
                 td.text-left
                   p • #[b Solar y eólica:] sin emisiones durante operación; impactos visuales y sonoros mínimos.
                   p • #[b Hidroeléctrica:] alteración de ecosistemas y posible emisión de metano por biomasa en embalses.
-
+                  p • #[b Biomasa:] emite CO₂ pero puede ser carbono - neutra si el cultivo se renueva.
               tr.bg9
                 td #[b Consideraciones de sostenibilidad]
                 td.text-left
@@ -201,7 +201,7 @@
                 td #[b Residuos de combustibles fósiles]
                 td.text-left
                   p • Cenizas con metales pesados; riesgo de filtración.
-
+                  p • Residuos tóxicos de plantas térmicas. 
               tr.bg10
                 td #[b Residuos de energía nuclear]
                 td.text-left
