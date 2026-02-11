@@ -443,7 +443,7 @@
                 
       separador
       #t_1_2.titulo-segundo.mb-5(data-aos="zoom-in-left")
-        h2 1.2 Desarrollo Sostenible
+        h2 1.2 Desarrollo sostenible
 
       .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-left")
         .col-lg-5.mb-4.col-md-8
