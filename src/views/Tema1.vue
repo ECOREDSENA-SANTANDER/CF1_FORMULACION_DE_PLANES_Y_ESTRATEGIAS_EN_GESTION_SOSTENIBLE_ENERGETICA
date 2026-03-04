@@ -70,7 +70,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido(alt="La dimensión ambiental de la sostenibilidad se orienta a la protección del capital natural y a la preservación de los ecosistemas. Su finalidad es evitar que las actividades humanas generen daños irreversibles o sobrepasen la capacidad del planeta para regenerarse y absorber residuos. En el sector energético, este enfoque se traduce en reducir las emisiones de gases de efecto invernadero, minimizar los impactos sobre el agua, el aire y el suelo, y adoptar tecnologías limpias que reduzcan la huella ambiental de los procesos. Ejemplos de su aplicación incluyen la transición hacia energías renovables, el manejo adecuado de residuos peligrosos y la implementación de planes de compensación ambiental. Para monitorear esta dimensión, se utilizan indicadores como la huella hídrica y de carbono, las emisiones por unidad de energía generada y la superficie de ecosistemas restaurados.")(data-aos='fade-right')
             h5 Tabla 1. 
-            span #[em Dimensión ambiental]
+            span Dimensión ambiental
 
           .tabla-a.color-acento-contenido(data-aos='fade-right')
             table
@@ -113,7 +113,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Tabla 2. 
-            span #[em Dimensión social]
+            span Dimensión social
 
           .tabla-a.color-acento-contenido(alt="La dimensión social de la sostenibilidad se enfoca en garantizar la equidad, la justicia y el bienestar humano, asegurando que los beneficios del desarrollo se distribuyan de manera justa. En el ámbito energético, este pilar se evidencia en acciones que permiten el acceso universal a energía asequible y limpia, la participación de las comunidades en decisiones sobre proyectos y la protección de grupos vulnerables frente a posibles impactos negativos. Esta dimensión también promueve condiciones laborales dignas y la reducción de la pobreza energética. Ejemplos de intervención social incluyen los programas de electrificación rural, los procesos de consulta previa y las iniciativas de educación energética comunitaria. Entre los indicadores más utilizados se encuentran el porcentaje de población con acceso a energía limpia, el índice de pobreza energética y el número de procesos participativos realizados.")(data-aos='fade-right')
             table
@@ -156,7 +156,7 @@
         .col-lg-12
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Tabla 3. 
-            span #[em Dimensión económica]
+            span Dimensión económica
 
           .tabla-a.color-acento-contenido(alt="La dimensión económica de la sostenibilidad busca asegurar la viabilidad financiera de los sistemas productivos sin comprometer los recursos naturales ni el bienestar social. Su objetivo es lograr prosperidad a largo plazo mediante la eficiencia, la innovación tecnológica y la resiliencia económica. En el sector energético, esta dimensión impulsa la creación de mercados para las energías renovables, la inversión en tecnologías eficientes y el desarrollo de modelos de negocio que combinen rentabilidad con responsabilidad ambiental y social. Ejemplos de esta dimensión incluyen la implementación de sistemas de energía solar o eólica, las auditorías energéticas y la incorporación de redes inteligentes. Entre los indicadores más usados se encuentran el costo nivelado de energía (LCOE), el retorno de inversión, los ahorros derivados de medidas de eficiencia y la proporción de energía renovable en la matriz energética.")(data-aos='fade-right')
             table
@@ -186,18 +186,20 @@
                     p • Inversión en paneles solares o aerogeneradores.
                     p • Auditorías energéticas para reducir consumo.
                     p • Desarrollo de redes inteligentes (#[em smart grids]).
+                    p • Modelos de negocio de autoconsumo.
                 tr.bg9
                   td #[b Indicadores]
                   td.text-left
                     p • Costo nivelado de energía (LCOE).
                     p • Retorno de inversión (ROI).
                     p • Ahorros por eficiencia energética.
+                    p • Porcentaje de energías renovables en la matriz.
 
       .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
         .col-lg-6
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 1. 
-            span #[em Los tres pilares del desarrollo sostenible]
+            span Los tres pilares del desarrollo sostenible
           img.mb-2(src='@/assets/curso/Tema1/fig1.svg', alt='Se representa el concepto de desarrollo sostenible a través de un esquema de superposición de tres componentes fundamentales. En el centro, se define el desarrollo sostenible como el punto de equilibrio entre tres pilares principales: el económico, el social y el ambiental. El modelo indica que el desarrollo es equitativo cuando se logra el balance entre los aspectos económico y social; es viable cuando se equilibra lo económico y lo ambiental; y es vivible (o soportable) cuando se encuentra el balance entre lo social y lo ambiental. El desarrollo sostenible se logra, por lo tanto, únicamente cuando se satisfacen las tres condiciones simultáneamente.')
           figcaption #[b Fuente:] Girosalut (2024)  
 
@@ -269,7 +271,7 @@
         .col-lg-4.col-md-6
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 2. 
-            span #[em Huella ecológica ]
+            span Huella ecológica
           img.mb-2(src='@/assets/curso/Tema1/fig4.svg', alt='Representa la huella ecológica mediante la silueta de un pie que integra íconos de industrias, transporte, agua, residuos y energía. Esta imagen sintetiza cómo las actividades humanas generan una presión conjunta sobre la naturaleza y cuánto territorio biológicamente productivo se requiere para sostener ese estilo de vida.')
        
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4
@@ -366,8 +368,8 @@
                 p Considerando un factor simplificado de #[b 0.5 hectáreas globales (gha) por cada 1,000 kWh], necesario para absorber el CO₂ emitido en la generación eléctrica, la huella correspondiente se calcula de la siguiente manera:
               .col-lg-11
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-                  h5 Figura 3. 
-                  span #[em Fórmula del consumo de energía ]
+                  h5 Figura 3.
+                  span Fórmula del consumo de energía
               .col-lg-5 
                 img.mb-2(src='@/assets/curso/Tema1/fig3.svg', alt='La fórmula representa el cálculo de la huella ecológica generada por el consumo anual de energía eléctrica. En ella, se divide el consumo total de electricidad entre 1,000 kWh para estandarizar la medida y posteriormente se multiplica por el factor de 0.5 gha, correspondiente al área necesaria para absorber las emisiones de CO₂ asociadas a su producción. El resultado expresa la demanda ecológica derivada del uso de electricidad por parte de Sofía.')
  
@@ -379,7 +381,7 @@
               .col-lg-11
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                   h5 Figura 4. 
-                  span #[em Fórmula del transporte]
+                  span Fórmula del transporte
               .col-lg-5 
                 img.mb-2(src='@/assets/curso/Tema1/fig04.svg', alt='Esta fórmula muestra la estimación de la huella ecológica causada por el consumo anual de gasolina. Primero, se divide el volumen total de combustible utilizado entre 100 litros, con el fin de aplicar el factor de huella asociado a ese intervalo. Luego se multiplica por 0.1 gha, que corresponde al espacio requerido para la producción del combustible y la absorción de las emisiones generadas. El resultado refleja el impacto ambiental del transporte individual de Sofía.')
       
@@ -390,7 +392,7 @@
               .col-lg-11
                 .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                   h5 Figura 5. 
-                  span #[em Fórmula del consumo de carne y vegetales] 
+                  span Fórmula del consumo de carne y vegetales
               .col-lg-5 
                 img.mb-4(src='@/assets/curso/Tema1/fig5.svg', alt='Las fórmulas estiman la huella ecológica derivada del consumo anual de carne y vegetales. Ambas multiplican la cantidad consumida en kilogramos por un factor de huella específico (0.05 gha / kg para la carne y 0.01 gha / kg para los vegetales), reflejando los recursos necesarios para su producción. El resultado muestra la presión ambiental generada por la dieta de Sofía.')
               p.col-lg-11 La huella total correspondiente a la alimentación es de 8 gha.
@@ -518,7 +520,7 @@
         .col-lg-5
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 6. 
-            span #[em Economía circular]
+            span Economía circular
       .row.justify-content-center.align-items-center.mb-4.fondo2.p-4
         .col-lg-6.col-md-8
           img(src='@/assets/curso/Tema1/fig06.svg', alt='El proceso inicia con las materias primas, continúa con el diseño, la producción, la distribución y el consumo, y prioriza la reutilización y reparación para extender la vida útil de los productos. Finalmente, los materiales se recolectan y reciclan para reintegrarse al ciclo productivo, dejando solo una mínima fracción como residuo.')

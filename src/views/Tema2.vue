@@ -13,7 +13,7 @@
       .col-lg-5
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 7. 
-          span #[em Análisis de ciclo de vida]
+          span Análisis de ciclo de vida
     .row.justify-content-center.align-items-center.mb-4.fondo2.p-4
       .col-lg-6.col-md-8
         img(src='@/assets/curso/Tema2/img01.svg', alt='El Análisis del Ciclo de Vida (ACV) se muestra como un ciclo cerrado que incluye la obtención de materias primas, la producción, la distribución, el uso y el reciclaje. Cada etapa se conecta para reincorporar materiales al sistema y reducir la extracción de nuevos recursos, todo enmarcado dentro del concepto central del ACV.')
@@ -30,7 +30,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 4. 
-          span #[em Extracción de materia prima]
+          span Extracción de materia prima
 
       .tabla-a.color-acento-contenido(alt="Describe la etapa inicial del ciclo de vida, donde se extraen recursos naturales y se generan impactos como deforestación, erosión, contaminación por petróleo y minería. Incluye efectos en renovables y prácticas de extracción sostenible.")(data-aos='fade-right')
         table
@@ -65,7 +65,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 5. 
-          span #[em Procesamiento / transformación]
+          span Procesamiento / transformación
 
       .tabla-a.color-acento-contenido(alt="Presenta cómo los recursos se refinan o transforman, generando consumo energético y emisiones. Señala impactos en combustibles fósiles y renovables, y destaca la importancia de la eficiencia y el manejo seguro de materiales.")(data-aos='fade-right')
         table
@@ -102,7 +102,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 6. 
-          span #[em Transporte]
+          span Transporte
 
       .tabla-a.color-acento-contenido(alt="Presenta la movilización de recursos o equipos, sus emisiones y riesgos como derrames y contaminación. Incluye impactos en fósiles y renovables, y propone medidas como rutas optimizadas y transporte eficiente.")(data-aos='fade-right')
         table
@@ -138,7 +138,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 7.
-          span #[em Generación / combustión]
+          span Generación / combustión
 
         .tabla-a.color-acento-contenido(alt="Explica la conversión del recurso en energía, con altas emisiones en combustibles fósiles y mínimos impactos en solar y eólica. Destaca medidas como eficiencia, reducción de contaminantes y uso de tecnologías limpias.")(data-aos='fade-right')
           table
@@ -178,7 +178,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 8.
-          span #[em Disposición final residuos]
+          span Disposición final residuos
 
         .tabla-a.color-acento-contenido(alt="Describe la gestión de residuos energéticos, incluyendo cenizas, desechos tóxicos, residuos nucleares y materiales de renovables como paneles y baterías. Señala la importancia del reciclaje y la economía circular.")(data-aos='fade-right')
           table

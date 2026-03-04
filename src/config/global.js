@@ -90,11 +90,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -116,29 +111,6 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: 'La sostenibilidad como marco de referencia',
-      referencia:
-        'Matis, P. (2015, 13 de mayo). Clase - Huella ecológica - Explicación.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=w-Mg6SC0DU0',
-    },
-    {
-      tema: 'El ciclo de vida del proceso energético',
-      referencia:
-        'Universidad Politécnica de Valencia (UPV). (2018, 22 de octubre). Análisis de ciclo de vida. Definición de objetivos y alcance. UPV.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=sC1HmzxOjoQ',
-    },
-    {
-      tema: 'Impactos ambientales en el proceso energético',
-      referencia:
-        'Impacto Ambiental (2025, 10 de junio). ¿Cuál es el impacto ambiental de la producción de energía? 17 min.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=kPRZ906UbVM',
-    },
-  ],
   glosario: [
     {
       termino: 'Biomasa',
@@ -230,19 +202,17 @@ export default {
     {
       referencia:
         'Ellen MacArthur Foundation. (2017). Introducción a la economía circular.',
-      link:
-        'https://www.ellenmacarthurfoundation.org/es/temas/presentacion-economia-circular/vision-general',
+      link: '',
     },
     {
       referencia:
         'Agencia Internacional de la Energía (IEA). (2023). World Energy Outlook 2023. IEA Publications.',
-      link: 'https://www.iea.org/reports/world-energy-outlook-2023',
+      link: '',
     },
     {
       referencia:
         'Ministerio de Ambiente y Desarrollo Sostenible (MADS) de Colombia. (2019). Guía metodológica para la evaluación de impactos ambientales.',
-      link:
-        'https://archivo.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/Evaluaci%C3%B3n_Ambiental_Estrategica/Guia_de_evaluci%C3%B3n_ambiental_Estrat%C3%A9gica.pdf',
+      link: '',
     },
     {
       referencia:
