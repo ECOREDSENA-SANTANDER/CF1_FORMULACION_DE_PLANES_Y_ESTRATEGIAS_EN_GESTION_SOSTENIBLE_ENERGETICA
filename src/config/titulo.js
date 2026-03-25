@@ -1,2 +1,2 @@
 module.exports =
-  'Formulación de planes y estrategias en gestión sostenible energética'
+  'Fundamentos de la evaluación de impactos ambientales en procesos energéticos'

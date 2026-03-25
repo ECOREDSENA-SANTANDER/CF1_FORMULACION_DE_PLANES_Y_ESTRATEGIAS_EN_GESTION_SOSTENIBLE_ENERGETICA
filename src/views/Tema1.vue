@@ -535,7 +535,7 @@
             | Modelo de producción y consumo que busca la reducción, reutilización, reparación y reciclaje de materiales.
           p 
             br
-            | El modelo de la economía circular se fundamenta en un diseño sistémico que busca un flujo continuo de materiales y energía, imitando los ciclos de la naturaleza. A diferencia del modelo lineal de “tomar – hacer - desechar,” la circularidad se basa en tres principios clave que actúan de manera interconectada:
+            | El modelo de la economía circular se fundamenta en un diseño sistémico que busca un flujo continuo de materiales y energía, imitando los ciclos de la naturaleza. A diferencia del modelo lineal de “tomar – hacer - desechar” la circularidad se basa en tres principios clave que actúan de manera interconectada:
 
       .p-5.fondo11.mb-5(data-aos="zoom-in-left")
         .tarjeta.tarjeta--gris.p-4
